@@ -1,7 +1,10 @@
 ---
 layout: post
+lang: en
+ref_id: welcome-to-jekyll
 title:  "Welcome to Jekyll!"
 date:   2026-07-26 16:27:26 +0100
+tags: [Updates, Welcome]
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
@@ -18,7 +21,7 @@ Jekyll also offers powerful support for code snippets:
 def print_hi(name)
   puts "Hi, #{name}"
 end
-print_hi('Tom')
+print_hi('Mary  ')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
