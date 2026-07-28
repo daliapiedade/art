@@ -4,7 +4,7 @@ lang: en
 ref_id: dreambird
 title:  "Dream Bird"
 date:   2026-07-27 00:00:00 +0100
-tags: [Knitting, shortrows]
+tags: [Knitting, ShortRows]
 categories: Knitting
 ---
 
@@ -40,7 +40,7 @@ ShortRows
 > * Feather yarn: Rosa Pomar Mondim - A579 (Solid Yellow)
 > 
 > **Needles**
-> Size: 
+> Size: 5.0 mm
 >
 > **Photos**
 > ![Dreambird 1]
