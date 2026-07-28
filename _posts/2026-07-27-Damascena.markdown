@@ -17,7 +17,7 @@ Damascena
 ### Author 
 Paola Albergamo
 
-### Techiniques
+### Techniques
 ShortRows
 
 > ### Shawl 1
